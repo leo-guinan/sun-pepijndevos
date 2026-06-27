@@ -1,0 +1,382 @@
+{
+  "id": "sun-pepijndevos",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@pepijndevos Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_3c4afdd4eace",
+    "display_name": "pepijndevos",
+    "user_id": "@pepijndevos",
+    "description": "Community Archive-derived proof-of-search sun for @pepijndevos.",
+    "document_count": 32269,
+    "word_count": 627053,
+    "active_days": 4267,
+    "emissions": [
+      "Don",
+      "Think",
+      "Now",
+      "Maybe",
+      "Time",
+      "Only"
+    ],
+    "generated_at": "2026-06-27T16:57:08.655711+00:00",
+    "color": "#f59e0b",
+    "mass": 13.349
+  },
+  "planets": [
+    {
+      "id": "planet_d2dfee33dd10",
+      "name": "Don",
+      "summary": "Archive cluster around don: 27483 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "good",
+        "want",
+        "which",
+        "seems"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5a176e3d4f25",
+          "title": "Don receipt from 2024-04-11",
+          "excerpt": "But doctor... https://t.co/eiAxNB4Lok",
+          "source_document_id": "1778389955217125543",
+          "timestamp": "2024-04-11T11:49:40+00:00",
+          "url": "https://x.com/pepijndevos/status/1778389955217125543",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, good, want, which."
+        },
+        {
+          "id": "art_2aa615ab3e58",
+          "title": "Don receipt from 2020-12-22",
+          "excerpt": "nyand gate https://t.co/Z1A9ydQEWx",
+          "source_document_id": "1341490751943917571",
+          "timestamp": "2020-12-22T21:08:13+00:00",
+          "url": "https://x.com/pepijndevos/status/1341490751943917571",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, good, want, which."
+        },
+        {
+          "id": "art_75ea4c9d643f",
+          "title": "Don receipt from 2022-03-18",
+          "excerpt": "@mcmillen [Shivers] https://t.co/wkFvoKI3tB",
+          "source_document_id": "1504728229420097541",
+          "timestamp": "2022-03-18T07:55:41+00:00",
+          "url": "https://x.com/pepijndevos/status/1504728229420097541",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, good, want, which."
+        },
+        {
+          "id": "art_39cb931677e6",
+          "title": "Don receipt from 2023-12-18",
+          "excerpt": "@mattdsegal Idk I find twitch language cringe\npog 5head",
+          "source_document_id": "1736660798498386286",
+          "timestamp": "2023-12-18T08:12:54+00:00",
+          "url": "https://x.com/pepijndevos/status/1736660798498386286",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, good, want, which."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_275b4d6647a7",
+      "proof_score": 1,
+      "mass": 39.306,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_2cc428ab92c7",
+      "name": "Think",
+      "summary": "Archive cluster around think: 1167 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "could",
+        "maybe",
+        "things",
+        "now"
+      ],
+      "artifacts": [
+        {
+          "id": "art_71401220e0c9",
+          "title": "Think receipt from 2024-06-22",
+          "excerpt": "People who think we live in a simulation clearly have never tried simulating anything",
+          "source_document_id": "1804634993425006829",
+          "timestamp": "2024-06-22T21:58:05+00:00",
+          "url": "https://x.com/pepijndevos/status/1804634993425006829",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, could, maybe, things."
+        },
+        {
+          "id": "art_292c1271cc37",
+          "title": "Think receipt from 2021-10-10",
+          "excerpt": "@SwiftOnSecurity The mark of a pro: making it look effortless. Watching him you'd think you can pick up a kit and open any lock in sight. Having visited a lockpocking village at some hacker conf I can assure you this is very much untrue.",
+          "source_document_id": "1447146303885090820",
+          "timestamp": "2021-10-10T10:25:40+00:00",
+          "url": "https://x.com/pepijndevos/status/1447146303885090820",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, could, maybe, things."
+        },
+        {
+          "id": "art_f487974330b9",
+          "title": "Think receipt from 2024-01-16",
+          "excerpt": "Incredible to think this big chunk of lithium can barely propel my bike for an hour, while my body can do this on a cheese sandwich. Why can't we harness the incredible power of cheese sandwiches directly?",
+          "source_document_id": "1747392808908943447",
+          "timestamp": "2024-01-16T22:58:05+00:00",
+          "url": "https://x.com/pepijndevos/status/1747392808908943447",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, could, maybe, things."
+        },
+        {
+          "id": "art_86e9d06cfa48",
+          "title": "Think receipt from 2024-09-07",
+          "excerpt": "I'm morbidly curious what @dieworkwear would think of my wedding suit https://t.co/ZfYLpYAcoq",
+          "source_document_id": "1832318388237996436",
+          "timestamp": "2024-09-07T07:22:01+00:00",
+          "url": "https://x.com/pepijndevos/status/1832318388237996436",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, could, maybe, things."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f4d17718812f",
+      "proof_score": 1,
+      "mass": 31.445,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_a30c5e7f969c",
+      "name": "Now",
+      "summary": "Archive cluster around now: 1118 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "now",
+        "only",
+        "actually",
+        "new",
+        "use"
+      ],
+      "artifacts": [
+        {
+          "id": "art_9b280a168a6c",
+          "title": "Now receipt from 2019-12-15",
+          "excerpt": "Open source Gowin blinken party!!! Both GW1NR-9 and GW1N-1 work flawlessly now! https://t.co/kVUIPelISX",
+          "source_document_id": "1206252195626278919",
+          "timestamp": "2019-12-15T16:38:29+00:00",
+          "url": "https://x.com/pepijndevos/status/1206252195626278919",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, only, actually, new."
+        },
+        {
+          "id": "art_8efcb604ea27",
+          "title": "Now receipt from 2019-07-19",
+          "excerpt": "I turned some Verilog code into a PCB with 7400 logic chips. Also works for VHDL now. https://t.co/2Fm56kHe7B",
+          "source_document_id": "1152315173685923840",
+          "timestamp": "2019-07-19T20:32:01+00:00",
+          "url": "https://x.com/pepijndevos/status/1152315173685923840",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, only, actually, new."
+        },
+        {
+          "id": "art_343382b36d5d",
+          "title": "Now receipt from 2023-10-21",
+          "excerpt": "Now that the mortgage is approved I can cautiously reveal that we're in the process of buying and renovating a house. A truly ginormous amount of paperwork, decisions, and coordination continues to flow our way. Please send spoons, thoughts, prayers, advice, hugs, etc. https://t.co/X3q6nQEx1w",
+          "source_document_id": "1715749052061524439",
+          "timestamp": "2023-10-21T15:17:05+00:00",
+          "url": "https://x.com/pepijndevos/status/1715749052061524439",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, only, actually, new."
+        },
+        {
+          "id": "art_b3c45c3a2258",
+          "title": "Now receipt from 2023-12-30",
+          "excerpt": "When I learned Clojure it felt like being on the forefront of practical computer science. What makes you feel like that right now? Who's bringing obscure CS to the mainstream?",
+          "source_document_id": "1741112639919411613",
+          "timestamp": "2023-12-30T15:02:56+00:00",
+          "url": "https://x.com/pepijndevos/status/1741112639919411613",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, only, actually, new."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_d81574ac866c",
+      "proof_score": 1,
+      "mass": 30.854,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_b931e72df698",
+      "name": "Maybe",
+      "summary": "Archive cluster around maybe: 900 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "maybe",
+        "should",
+        "actually",
+        "could",
+        "something"
+      ],
+      "artifacts": [
+        {
+          "id": "art_ccfe45f7f7b5",
+          "title": "Maybe receipt from 2024-04-11",
+          "excerpt": "Maybe it's not a bot after all? It's a new account but it's literally their only post. Could be they really didn't notice I'm the same guy or just wanted to leave a reference for future web wanderers. https://t.co/nvnscX9Dxg",
+          "source_document_id": "1778523878350020873",
+          "timestamp": "2024-04-11T20:41:50+00:00",
+          "url": "https://x.com/pepijndevos/status/1778523878350020873",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: maybe, should, actually, could."
+        },
+        {
+          "id": "art_6ece69f39e0c",
+          "title": "Maybe receipt from 2020-09-27",
+          "excerpt": "Another funny thing is that I realised LiteX supports Microwatt and that Microwatt supports Rust. So my Rust HAL should also work on PPC, maybe. That would be a great demonstration of portability. https://t.co/hgYeHqxy7b",
+          "source_document_id": "1310142868984598528",
+          "timestamp": "2020-09-27T09:02:55+00:00",
+          "url": "https://x.com/pepijndevos/status/1310142868984598528",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: maybe, should, actually, could."
+        },
+        {
+          "id": "art_bef8a4231b0b",
+          "title": "Maybe receipt from 2021-02-03",
+          "excerpt": "I have a part-time job at Julia Computing working on a new open source spice simulator, so that's great. So for the immediate future I'll enjoy my free time, and maybe work a bit on Apicula and some other stuff.",
+          "source_document_id": "1356974227568668673",
+          "timestamp": "2021-02-03T14:34:01+00:00",
+          "url": "https://x.com/pepijndevos/status/1356974227568668673",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: maybe, should, actually, could."
+        },
+        {
+          "id": "art_c7cffd8110a9",
+          "title": "Maybe receipt from 2021-10-12",
+          "excerpt": "Got severely nerdsniped by yrabbit to dig a bit more into how Gowin ALU works. Would be pretty easy to just fuzz what the vendor supports, but if we can understand it maybe we can do crimes. It appears to function like a LUT3 and LUT2 into hard carry logic. https://t.co/u4i14Nh2TL",
+          "source_document_id": "1447963857897627653",
+          "timestamp": "2021-10-12T16:34:20+00:00",
+          "url": "https://x.com/pepijndevos/status/1447963857897627653",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: maybe, should, actually, could."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_0440d5683593",
+      "proof_score": 1,
+      "mass": 30.616,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_413a01e2ae77",
+      "name": "Time",
+      "summary": "Archive cluster around time: 849 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "every",
+        "first",
+        "which",
+        "only"
+      ],
+      "artifacts": [
+        {
+          "id": "art_50ceba0bde70",
+          "title": "Time receipt from 2022-09-21",
+          "excerpt": "Cracks me up every time https://t.co/zJOOGsiLk5",
+          "source_document_id": "1572517720394174464",
+          "timestamp": "2022-09-21T09:26:55+00:00",
+          "url": "https://x.com/pepijndevos/status/1572517720394174464",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, which."
+        },
+        {
+          "id": "art_6d2a4c59380a",
+          "title": "Time receipt from 2024-03-31",
+          "excerpt": "For the first time in what feels like months I'm done with cleaning, laundry, and todos and am just free to mess around. https://t.co/7iko4hCSC0",
+          "source_document_id": "1774380318767579181",
+          "timestamp": "2024-03-31T10:16:49+00:00",
+          "url": "https://x.com/pepijndevos/status/1774380318767579181",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, which."
+        },
+        {
+          "id": "art_664b745202f3",
+          "title": "Time receipt from 2024-04-11",
+          "excerpt": "And I also made a GPS antenna from scratch one time\nhttps://t.co/iBCOKpj6dD",
+          "source_document_id": "1778508285571695059",
+          "timestamp": "2024-04-11T19:39:53+00:00",
+          "url": "https://x.com/pepijndevos/status/1778508285571695059",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, which."
+        },
+        {
+          "id": "art_4918ede65821",
+          "title": "Time receipt from 2020-11-22",
+          "excerpt": "The curse of the Toolsmith is to suffer the pain you seek to cure.\nTo write a better HDL you spend your time in verilog.\nTo write open source FPGA tools you spend time in vendor tools.\nTo write safe Rust abstractions you spend your time in unsafe code. https://t.co/R4MtijFNe6",
+          "source_document_id": "1330410361439260672",
+          "timestamp": "2020-11-22T07:18:42+00:00",
+          "url": "https://x.com/pepijndevos/status/1330410361439260672",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, first, which."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4fac41b011f7",
+      "proof_score": 1,
+      "mass": 30.242,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_984d9a1a52b7",
+      "name": "Only",
+      "summary": "Archive cluster around only: 752 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "only",
+        "thing",
+        "which",
+        "way",
+        "could"
+      ],
+      "artifacts": [
+        {
+          "id": "art_eddae1454143",
+          "title": "Only receipt from 2019-11-22",
+          "excerpt": "I was super worried I'd have horrible timing violations on anything nontrivial when not using global clock lines. I put PicoRV32 on the Gowin with Nextpnr, calculating primes. It's taking up a lot of space because it only uses LUTs and DFFs, but it actually works! https://t.co/CZY5qqNTvZ",
+          "source_document_id": "1197903645519560706",
+          "timestamp": "2019-11-22T15:44:19+00:00",
+          "url": "https://x.com/pepijndevos/status/1197903645519560706",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, thing, which, way."
+        },
+        {
+          "id": "art_ba95ada196b5",
+          "title": "Only receipt from 2024-04-17",
+          "excerpt": "My life is such a comical wreck at the moment where my only functional mode of transportation is my unicycle. The KISS mode of transportation that can't have drive chain problems. https://t.co/370JR71IX0",
+          "source_document_id": "1780598932118311164",
+          "timestamp": "2024-04-17T14:07:22+00:00",
+          "url": "https://x.com/pepijndevos/status/1780598932118311164",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, thing, which, way."
+        },
+        {
+          "id": "art_0c08fb5b3505",
+          "title": "Only receipt from 2020-12-22",
+          "excerpt": "I'm working on open source software for chip designers. Earlier today I joked I should call my schematic entry tool NyanCAD, and from there it was only a small step to the Nyand gate. If this takes of big while I sleep, I might actually go with NyanCAD???\n\nhttps://t.co/l4du2puuvf",
+          "source_document_id": "1341494721110261761",
+          "timestamp": "2020-12-22T21:23:59+00:00",
+          "url": "https://x.com/pepijndevos/status/1341494721110261761",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, thing, which, way."
+        },
+        {
+          "id": "art_d55334c89c2c",
+          "title": "Only receipt from 2024-08-29",
+          "excerpt": "Python is the only general purpose language. All other languages are single purpose or zero purpose. Tell me a purpose and I'll tell you how to use Python for it. Tell me a language and I'll tell you its purpose.",
+          "source_document_id": "1829045775524942150",
+          "timestamp": "2024-08-29T06:37:49+00:00",
+          "url": "https://x.com/pepijndevos/status/1829045775524942150",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: only, thing, which, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_235afa0626b3",
+      "proof_score": 1,
+      "mass": 29.905,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
